@@ -1,3 +1,4 @@
+# ResNet50 with Gradcam
 ResNet50の転移学習時に、Gradcamによる注目領域の制御をしながらモデル学習をするプログラムです。
 
 
