@@ -1,0 +1,13 @@
+# === Image processing ===
+Pillow==10.4.0
+
+# === Data handling ===
+numpy
+
+# === COCO / Labelme utilities ===
+labelme==5.3.1
+
+# === Misc ===
+tqdm==4.66.4
+
+scikit-learn>=1.4
