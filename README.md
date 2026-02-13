@@ -33,6 +33,7 @@ dataset/
 
 jsonファイルは下記形式です。labelmeを使ってアノテーションすることを想定しています。
 （positive（手がポケットに入っている）例）
+```
 {
   "version": "5.0.1",
   "flags": {},
@@ -49,9 +50,10 @@ jsonファイルは下記形式です。labelmeを使ってアノテーション
   "imageHeight": 224,
   "imageWidth": 224
 }
-
+```
 
 （negative（手がポケットに入っていない、人がいない）例）
+```
 {
   "version": "5.0.1",
   "flags": {},
@@ -60,4 +62,4 @@ jsonファイルは下記形式です。labelmeを使ってアノテーション
   "imageHeight": 224,
   "imageWidth": 224
 }
-
+```
